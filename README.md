@@ -153,8 +153,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 📞 Contact
 
-Kshitija Urmale - <a href="mailto:kshitijaurmale@example.com">kshitijaurmale@example.com</a> - [https://github.com/KshitijaUrmale](https://github.com/KshitijaUrmale)
+ 
